@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RunGroupWebApp.props" />
+</Project>

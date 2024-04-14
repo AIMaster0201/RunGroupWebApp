@@ -1,12 +1,207 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\VisualStudioPro\\AspNetCorePro\\RunGroupWebApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A78317E4-0F47-48CF-9C52-E6DAB98F9F4E}|RunGroupWebApp\\RunGroupWebApp.csproj|d:\\visualstudiopro\\aspnetcorepro\\rungroupwebapp\\rungroupwebapp\\views\\race\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A78317E4-0F47-48CF-9C52-E6DAB98F9F4E}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\views\\race\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78317E4-0F47-48CF-9C52-E6DAB98F9F4E}|RunGroupWebApp\\RunGroupWebApp.csproj|d:\\visualstudiopro\\aspnetcorepro\\rungroupwebapp\\rungroupwebapp\\views\\club\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A78317E4-0F47-48CF-9C52-E6DAB98F9F4E}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\views\\club\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78317E4-0F47-48CF-9C52-E6DAB98F9F4E}|RunGroupWebApp\\RunGroupWebApp.csproj|d:\\visualstudiopro\\aspnetcorepro\\rungroupwebapp\\rungroupwebapp\\controllers\\racecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78317E4-0F47-48CF-9C52-E6DAB98F9F4E}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\controllers\\racecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78317E4-0F47-48CF-9C52-E6DAB98F9F4E}|RunGroupWebApp\\RunGroupWebApp.csproj|d:\\visualstudiopro\\aspnetcorepro\\rungroupwebapp\\rungroupwebapp\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78317E4-0F47-48CF-9C52-E6DAB98F9F4E}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78317E4-0F47-48CF-9C52-E6DAB98F9F4E}|RunGroupWebApp\\RunGroupWebApp.csproj|d:\\visualstudiopro\\aspnetcorepro\\rungroupwebapp\\rungroupwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78317E4-0F47-48CF-9C52-E6DAB98F9F4E}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78317E4-0F47-48CF-9C52-E6DAB98F9F4E}|RunGroupWebApp\\RunGroupWebApp.csproj|d:\\visualstudiopro\\aspnetcorepro\\rungroupwebapp\\rungroupwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A78317E4-0F47-48CF-9C52-E6DAB98F9F4E}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78317E4-0F47-48CF-9C52-E6DAB98F9F4E}|RunGroupWebApp\\RunGroupWebApp.csproj|d:\\visualstudiopro\\aspnetcorepro\\rungroupwebapp\\rungroupwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A78317E4-0F47-48CF-9C52-E6DAB98F9F4E}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78317E4-0F47-48CF-9C52-E6DAB98F9F4E}|RunGroupWebApp\\RunGroupWebApp.csproj|d:\\visualstudiopro\\aspnetcorepro\\rungroupwebapp\\rungroupwebapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A78317E4-0F47-48CF-9C52-E6DAB98F9F4E}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78317E4-0F47-48CF-9C52-E6DAB98F9F4E}|RunGroupWebApp\\RunGroupWebApp.csproj|d:\\visualstudiopro\\aspnetcorepro\\rungroupwebapp\\rungroupwebapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A78317E4-0F47-48CF-9C52-E6DAB98F9F4E}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78317E4-0F47-48CF-9C52-E6DAB98F9F4E}|RunGroupWebApp\\RunGroupWebApp.csproj|d:\\visualstudiopro\\aspnetcorepro\\rungroupwebapp\\rungroupwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78317E4-0F47-48CF-9C52-E6DAB98F9F4E}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78317E4-0F47-48CF-9C52-E6DAB98F9F4E}|RunGroupWebApp\\RunGroupWebApp.csproj|d:\\visualstudiopro\\aspnetcorepro\\rungroupwebapp\\rungroupwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A78317E4-0F47-48CF-9C52-E6DAB98F9F4E}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\VisualStudioPro\\AspNetCorePro\\RunGroupWebApp\\RunGroupWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\VisualStudioPro\\AspNetCorePro\\RunGroupWebApp\\RunGroupWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "RunGroupWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T14:44:13.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\VisualStudioPro\\AspNetCorePro\\RunGroupWebApp\\RunGroupWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\VisualStudioPro\\AspNetCorePro\\RunGroupWebApp\\RunGroupWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RunGroupWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T14:44:11.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VisualStudioPro\\AspNetCorePro\\RunGroupWebApp\\RunGroupWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Program.cs",
+              "ToolTip": "D:\\VisualStudioPro\\AspNetCorePro\\RunGroupWebApp\\RunGroupWebApp\\Program.cs",
+              "RelativeToolTip": "RunGroupWebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:35:02.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\VisualStudioPro\\AspNetCorePro\\RunGroupWebApp\\RunGroupWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\appsettings.json",
+              "ToolTip": "D:\\VisualStudioPro\\AspNetCorePro\\RunGroupWebApp\\RunGroupWebApp\\appsettings.json",
+              "RelativeToolTip": "RunGroupWebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-14T14:35:01.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\VisualStudioPro\\AspNetCorePro\\RunGroupWebApp\\RunGroupWebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\VisualStudioPro\\AspNetCorePro\\RunGroupWebApp\\RunGroupWebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "RunGroupWebApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T14:31:56.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VisualStudioPro\\AspNetCorePro\\RunGroupWebApp\\RunGroupWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\VisualStudioPro\\AspNetCorePro\\RunGroupWebApp\\RunGroupWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RunGroupWebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T14:31:04.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\VisualStudioPro\\AspNetCorePro\\RunGroupWebApp\\RunGroupWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\VisualStudioPro\\AspNetCorePro\\RunGroupWebApp\\RunGroupWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RunGroupWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:26:54.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VisualStudioPro\\AspNetCorePro\\RunGroupWebApp\\RunGroupWebApp\\Views\\Race\\Index.cshtml",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Views\\Race\\Index.cshtml",
+              "ToolTip": "D:\\VisualStudioPro\\AspNetCorePro\\RunGroupWebApp\\RunGroupWebApp\\Views\\Race\\Index.cshtml",
+              "RelativeToolTip": "RunGroupWebApp\\Views\\Race\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T14:18:57.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RaceController.cs",
+              "DocumentMoniker": "D:\\VisualStudioPro\\AspNetCorePro\\RunGroupWebApp\\RunGroupWebApp\\Controllers\\RaceController.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Controllers\\RaceController.cs",
+              "ToolTip": "D:\\VisualStudioPro\\AspNetCorePro\\RunGroupWebApp\\RunGroupWebApp\\Controllers\\RaceController.cs",
+              "RelativeToolTip": "RunGroupWebApp\\Controllers\\RaceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:17:54.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VisualStudioPro\\AspNetCorePro\\RunGroupWebApp\\RunGroupWebApp\\Views\\Club\\Index.cshtml",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Views\\Club\\Index.cshtml",
+              "ToolTip": "D:\\VisualStudioPro\\AspNetCorePro\\RunGroupWebApp\\RunGroupWebApp\\Views\\Club\\Index.cshtml",
+              "RelativeToolTip": "RunGroupWebApp\\Views\\Club\\Index.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T14:13:10.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClubController.cs",
+              "DocumentMoniker": "D:\\VisualStudioPro\\AspNetCorePro\\RunGroupWebApp\\RunGroupWebApp\\Controllers\\ClubController.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Controllers\\ClubController.cs",
+              "ToolTip": "D:\\VisualStudioPro\\AspNetCorePro\\RunGroupWebApp\\RunGroupWebApp\\Controllers\\ClubController.cs",
+              "RelativeToolTip": "RunGroupWebApp\\Controllers\\ClubController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:06:52.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
