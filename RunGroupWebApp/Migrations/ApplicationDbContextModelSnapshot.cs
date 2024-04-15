@@ -24,11 +24,11 @@ namespace RunGroupWebApp.Migrations
 
             modelBuilder.Entity("RunGroupWebApp.Models.Address", b =>
                 {
-                    b.Property<int>("MyProperty")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("MyProperty"), 1L, 1);
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
                     b.Property<string>("City")
                         .IsRequired()
@@ -42,7 +42,7 @@ namespace RunGroupWebApp.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("MyProperty");
+                    b.HasKey("Id");
 
                     b.ToTable("Addresses");
                 });
@@ -52,7 +52,7 @@ namespace RunGroupWebApp.Migrations
                     b.Property<string>("Id")
                         .HasColumnType("nvarchar(450)");
 
-                    b.Property<int?>("AddressMyProperty")
+                    b.Property<int?>("AddressId")
                         .HasColumnType("int");
 
                     b.Property<int?>("Mileage")
@@ -63,7 +63,7 @@ namespace RunGroupWebApp.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("AddressMyProperty");
+                    b.HasIndex("AddressId");
 
                     b.ToTable("AppUser");
                 });
@@ -148,7 +148,7 @@ namespace RunGroupWebApp.Migrations
                 {
                     b.HasOne("RunGroupWebApp.Models.Address", "Address")
                         .WithMany()
-                        .HasForeignKey("AddressMyProperty");
+                        .HasForeignKey("AddressId");
 
                     b.Navigation("Address");
                 });

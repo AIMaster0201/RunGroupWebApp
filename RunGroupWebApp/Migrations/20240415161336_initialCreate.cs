@@ -12,7 +12,7 @@ namespace RunGroupWebApp.Migrations
                 name: "Addresses",
                 columns: table => new
                 {
-                    MyProperty = table.Column<int>(type: "int", nullable: false)
+                    Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Street = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     City = table.Column<string>(type: "nvarchar(max)", nullable: false),
@@ -20,7 +20,7 @@ namespace RunGroupWebApp.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Addresses", x => x.MyProperty);
+                    table.PrimaryKey("PK_Addresses", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
@@ -30,16 +30,16 @@ namespace RunGroupWebApp.Migrations
                     Id = table.Column<string>(type: "nvarchar(450)", nullable: false),
                     Pace = table.Column<int>(type: "int", nullable: true),
                     Mileage = table.Column<int>(type: "int", nullable: true),
-                    AddressMyProperty = table.Column<int>(type: "int", nullable: true)
+                    AddressId = table.Column<int>(type: "int", nullable: true)
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_AppUser", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_AppUser_Addresses_AddressMyProperty",
-                        column: x => x.AddressMyProperty,
+                        name: "FK_AppUser_Addresses_AddressId",
+                        column: x => x.AddressId,
                         principalTable: "Addresses",
-                        principalColumn: "MyProperty");
+                        principalColumn: "Id");
                 });
 
             migrationBuilder.CreateTable(
@@ -62,7 +62,7 @@ namespace RunGroupWebApp.Migrations
                         name: "FK_Clubs_Addresses_AddressId",
                         column: x => x.AddressId,
                         principalTable: "Addresses",
-                        principalColumn: "MyProperty",
+                        principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
                         name: "FK_Clubs_AppUser_AppUserId",
@@ -91,7 +91,7 @@ namespace RunGroupWebApp.Migrations
                         name: "FK_Races_Addresses_AddressId",
                         column: x => x.AddressId,
                         principalTable: "Addresses",
-                        principalColumn: "MyProperty",
+                        principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
                         name: "FK_Races_AppUser_AppUserId",
@@ -101,9 +101,9 @@ namespace RunGroupWebApp.Migrations
                 });
 
             migrationBuilder.CreateIndex(
-                name: "IX_AppUser_AddressMyProperty",
+                name: "IX_AppUser_AddressId",
                 table: "AppUser",
-                column: "AddressMyProperty");
+                column: "AddressId");
 
             migrationBuilder.CreateIndex(
                 name: "IX_Clubs_AddressId",
