@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VisualStudioPro\\AspNetCorePro\\RunGroupWebApp\\RunGroupWebApp\\RunGroupWebApp.csproj": {}
+    "D:\\VisualStudioPro\\AspNetCorePro\\RunGroopWebApp\\RunGroupWebApp\\RunGroupWebApp.csproj": {}
   },
   "projects": {
-    "D:\\VisualStudioPro\\AspNetCorePro\\RunGroupWebApp\\RunGroupWebApp\\RunGroupWebApp.csproj": {
+    "D:\\VisualStudioPro\\AspNetCorePro\\RunGroopWebApp\\RunGroupWebApp\\RunGroupWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VisualStudioPro\\AspNetCorePro\\RunGroupWebApp\\RunGroupWebApp\\RunGroupWebApp.csproj",
+        "projectUniqueName": "D:\\VisualStudioPro\\AspNetCorePro\\RunGroopWebApp\\RunGroupWebApp\\RunGroupWebApp.csproj",
         "projectName": "RunGroupWebApp",
-        "projectPath": "D:\\VisualStudioPro\\AspNetCorePro\\RunGroupWebApp\\RunGroupWebApp\\RunGroupWebApp.csproj",
+        "projectPath": "D:\\VisualStudioPro\\AspNetCorePro\\RunGroopWebApp\\RunGroupWebApp\\RunGroupWebApp.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\VisualStudioPro\\AspNetCorePro\\RunGroupWebApp\\RunGroupWebApp\\obj\\",
+        "outputPath": "D:\\VisualStudioPro\\AspNetCorePro\\RunGroopWebApp\\RunGroupWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

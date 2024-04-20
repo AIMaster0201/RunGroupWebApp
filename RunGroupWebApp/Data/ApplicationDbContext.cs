@@ -7,7 +7,7 @@ namespace RunGroupWebApp.Data
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
- 
+
         }
         public DbSet<Club> Clubs { get; set; }
         public DbSet<Race> Races { get; set; }

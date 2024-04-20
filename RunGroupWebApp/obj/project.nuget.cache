@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mYR79BduaV1RbCkGcv4zrVowe4uWSapICqTunmZ5wwhqDNpOBDH2QLz9IatPDDUPtzLr22dOQ6H0Ld7IM3Nnog==",
+  "dgSpecHash": "bPdOGfVBF5AD7k5wGboQspV4mElt2AL5qPr00G2WKzUzJNmnKnzhkvcGbVRLtzJWIO1nL/R8EbVNO/ToTrsFYw==",
   "success": true,
-  "projectFilePath": "D:\\VisualStudioPro\\AspNetCorePro\\RunGroupWebApp\\RunGroupWebApp\\RunGroupWebApp.csproj",
+  "projectFilePath": "D:\\VisualStudioPro\\AspNetCorePro\\RunGroopWebApp\\RunGroupWebApp\\RunGroupWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

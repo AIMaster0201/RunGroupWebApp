@@ -9,55 +9,55 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RunGroupWebApp
 build_property.RootNamespace = RunGroupWebApp
-build_property.ProjectDir = D:\VisualStudioPro\AspNetCorePro\RunGroupWebApp\RunGroupWebApp\
+build_property.ProjectDir = D:\VisualStudioPro\AspNetCorePro\RunGroopWebApp\RunGroupWebApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\VisualStudioPro\AspNetCorePro\RunGroupWebApp\RunGroupWebApp
+build_property.MSBuildProjectDirectory = D:\VisualStudioPro\AspNetCorePro\RunGroopWebApp\RunGroupWebApp
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/VisualStudioPro/AspNetCorePro/RunGroupWebApp/RunGroupWebApp/Views/Club/Detail.cshtml]
+[D:/VisualStudioPro/AspNetCorePro/RunGroopWebApp/RunGroupWebApp/Views/Club/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YlxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VisualStudioPro/AspNetCorePro/RunGroupWebApp/RunGroupWebApp/Views/Club/Index.cshtml]
+[D:/VisualStudioPro/AspNetCorePro/RunGroopWebApp/RunGroupWebApp/Views/Club/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YlxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VisualStudioPro/AspNetCorePro/RunGroupWebApp/RunGroupWebApp/Views/Home/Index.cshtml]
+[D:/VisualStudioPro/AspNetCorePro/RunGroopWebApp/RunGroupWebApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VisualStudioPro/AspNetCorePro/RunGroupWebApp/RunGroupWebApp/Views/Home/Privacy.cshtml]
+[D:/VisualStudioPro/AspNetCorePro/RunGroopWebApp/RunGroupWebApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VisualStudioPro/AspNetCorePro/RunGroupWebApp/RunGroupWebApp/Views/Race/Detail.cshtml]
+[D:/VisualStudioPro/AspNetCorePro/RunGroopWebApp/RunGroupWebApp/Views/Race/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFjZVxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VisualStudioPro/AspNetCorePro/RunGroupWebApp/RunGroupWebApp/Views/Race/Index.cshtml]
+[D:/VisualStudioPro/AspNetCorePro/RunGroopWebApp/RunGroupWebApp/Views/Race/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFjZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VisualStudioPro/AspNetCorePro/RunGroupWebApp/RunGroupWebApp/Views/Shared/Error.cshtml]
+[D:/VisualStudioPro/AspNetCorePro/RunGroopWebApp/RunGroupWebApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VisualStudioPro/AspNetCorePro/RunGroupWebApp/RunGroupWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/VisualStudioPro/AspNetCorePro/RunGroopWebApp/RunGroupWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VisualStudioPro/AspNetCorePro/RunGroupWebApp/RunGroupWebApp/Views/_ViewImports.cshtml]
+[D:/VisualStudioPro/AspNetCorePro/RunGroopWebApp/RunGroupWebApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VisualStudioPro/AspNetCorePro/RunGroupWebApp/RunGroupWebApp/Views/_ViewStart.cshtml]
+[D:/VisualStudioPro/AspNetCorePro/RunGroopWebApp/RunGroupWebApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VisualStudioPro/AspNetCorePro/RunGroupWebApp/RunGroupWebApp/Views/Shared/_Layout.cshtml]
+[D:/VisualStudioPro/AspNetCorePro/RunGroopWebApp/RunGroupWebApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-jhkmpbbjp7
