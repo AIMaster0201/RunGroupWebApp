@@ -23,6 +23,11 @@ namespace RunGroupWebApp.Repository
             return await _context.Races.Include(h => h.Address).FirstOrDefaultAsync(h => h.Id == Id);
         }
 
+        public async Task<Race> GetByIdAsyncNoTracking(int Id)
+        {
+            return await _context.Races.Include(h => h.Address).AsNoTracking().FirstOrDefaultAsync(h => h.Id == Id);
+        }
+
         public async Task<IEnumerable<Race>> GetRaceByCity(string city)
         {
             return await _context.Races.Where(h => h.Address.City == city).ToListAsync();

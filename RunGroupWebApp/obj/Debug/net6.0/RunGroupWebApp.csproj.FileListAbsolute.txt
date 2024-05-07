@@ -132,3 +132,10 @@ D:\VisualStudioPro\AspNetCorePro\RunGroopWebApp\RunGroupWebApp\obj\Debug\net6.0\
 D:\VisualStudioPro\AspNetCorePro\RunGroopWebApp\RunGroupWebApp\obj\Debug\net6.0\RunGroupWebApp.pdb
 D:\VisualStudioPro\AspNetCorePro\RunGroopWebApp\RunGroupWebApp\obj\Debug\net6.0\RunGroupWebApp.genruntimeconfig.cache
 D:\VisualStudioPro\AspNetCorePro\RunGroopWebApp\RunGroupWebApp\obj\Debug\net6.0\ref\RunGroupWebApp.dll
+D:\VisualStudioPro\AspNetCorePro\RunGroopWebApp\RunGroupWebApp\bin\Debug\net6.0\CloudinaryDotNet.dll
+D:\VisualStudioPro\AspNetCorePro\RunGroopWebApp\RunGroupWebApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\VisualStudioPro\AspNetCorePro\RunGroopWebApp\RunGroupWebApp\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\VisualStudioPro\AspNetCorePro\RunGroopWebApp\RunGroupWebApp\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\VisualStudioPro\AspNetCorePro\RunGroopWebApp\RunGroupWebApp\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\VisualStudioPro\AspNetCorePro\RunGroopWebApp\RunGroupWebApp\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\VisualStudioPro\AspNetCorePro\RunGroopWebApp\RunGroupWebApp\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll

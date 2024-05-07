@@ -20,7 +20,12 @@ namespace RunGroupWebApp.Repository
 
         public async Task<Club> GetByIdAsync(int Id)
         {
-            return await _context.Clubs.Include(h=>h.Address).FirstOrDefaultAsync(h => h.Id == Id);
+            return await _context.Clubs.Include(h => h.Address).FirstOrDefaultAsync(h => h.Id == Id);
+        }
+
+        public async Task<Club> GetByIdAsyncNoTracking(int Id)
+        {
+            return await _context.Clubs.Include(h => h.Address).AsNoTracking().FirstOrDefaultAsync(h => h.Id == Id);
         }
 
         public async Task<IEnumerable<Club>> GetClubByCity(string city)
@@ -50,6 +55,5 @@ namespace RunGroupWebApp.Repository
             var saved = _context.SaveChanges();
             return saved > 0 ? true : false;
         }
-
     }
 }

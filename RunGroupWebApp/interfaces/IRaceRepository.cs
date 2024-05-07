@@ -6,6 +6,7 @@ namespace RunGroupWebApp.interfaces
     {
         Task<IEnumerable<Race>> GetAll();
         Task<Race> GetByIdAsync(int Id);
+        Task<Race> GetByIdAsyncNoTracking(int Id);
         Task<IEnumerable<Race>> GetRaceByCity(string city);
 
         bool Add(Race Race);
